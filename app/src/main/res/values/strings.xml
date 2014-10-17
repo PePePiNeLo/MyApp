@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Test 1</string>
-    <string name="hello_world">Mi primera aplicación, cambio para subir a GitHub!</string>
+    <string name="hello_world">Probando con GitHub!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
